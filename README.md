@@ -7,3 +7,7 @@
 - Visualised downtime data in Power BI to compare downtime contribution by operators, machine failure, and inventory shortages.
 
 ![manufacturing downtime report.jpg](https://github.com/jakejosh6751/Manufacturing-Downtime-Analysis-/blob/main/manufacturing%20downtime%20report.jpg)
+
+
+<img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/manufacturing%20downtime%20report.jpg" width="350">
+
