@@ -9,6 +9,6 @@ I analysed social media advertising data to understand how different age groups,
 
 ## Project 2: [Manufacturing Downtime Analysis](https://github.com/jacobdbt2100/Manufacturing-Downtime-Analysis/blob/main/README.md)
 
-I analysed soda bottling production line data and found that downtime caused a 36% inefficiency, extending batch duration by 23 hours. Operator errors were the leading drivers. Five factors–mainly machine adjustments, machine failure, and inventory shortage amongst others–accounted for 80% of total downtime. Base on these findings, I recommended targeted operator training, improved maintenance schedules, real-time inventory tracking, and high-downtime equipment upgrades to boost operational efficiency.
+I analysed soda bottling production line data and found that downtime caused 36% inefficiency, extending batch duration by 23 hours. Operator errors were the leading drivers. Five factors–mainly machine adjustments, machine failure, and inventory shortage amongst others–accounted for 80% of total downtime. Base on these findings, I recommended targeted operator training, improved maintenance schedules, real-time inventory tracking, and high-downtime equipment upgrades to boost operational efficiency.
 
 <img src="https://raw.githubusercontent.com/jakejosh6751/Manufacturing-Downtime-Analysis-/main/manufacturing downtime report.jpg" width="500">
