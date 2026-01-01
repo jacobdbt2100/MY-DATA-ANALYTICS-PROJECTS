@@ -14,7 +14,7 @@ On-Time and In-Full service levels were consistently less than targets with at l
 
 Base on these findings, I recommend targeted product manufacturing schedules and real-time inventory tracking to boost operational efficiency.
 
-<img src="https://raw.githubusercontent.com/jacobdbt2100/Marketing-Campaign-Effectiveness-Analysis/main/supply chain report.jpg" width="600">
+<img src="https://raw.githubusercontent.com/jacobdbt2100/Supply-Chain-Service-Level-Tracking-Analysis/main/supply chain report.jpg" width="600">
 
 
 ## Project 3: [Manufacturing Downtime Analysis](https://github.com/jacobdbt2100/Manufacturing-Downtime-Analysis/blob/main/README.md)
