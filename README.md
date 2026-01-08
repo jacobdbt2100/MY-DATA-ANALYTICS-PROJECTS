@@ -23,7 +23,7 @@ ___
 ## Project 3: [Marketing Campaign Effectiveness Analysis](https://github.com/jacobdbt2100/Marketing-Campaign-Effectiveness-Analysis/blob/main/README.md)
 The campaign delivered strong overall performance, achieving a **ROAS of 4.0, CTR of 9.8%**, and a **conversion rate of 4.5%**, driven by high efficiency in **Search Engine and Social Media** channels and leading returns from the **Eastern region**. However, regional funnel imbalances persist, with the **South** showing high engagement but weak conversion and the **North** converting efficiently despite lower reach. Revenue performance also showed a **sharp decline between April and June 2024** before recovering in July, while revenue remains heavily concentrated in **Product C**, particularly across North, West, and East.
 
-Based on these findings, I recommend **scaling spend selectively** toward top-performing channels, regions, and products; **rebalancing regional strategies** to address funnel inefficiencies; and **reviewing the April–June period**
+Based on these findings, I recommend **scaling spend selectively** toward top-performing channels, regions, and products; **rebalancing regional strategies** to address funnel inefficiencies; and **reviewing the April–June period** to prevent future revenue declines and strengthen campaign stability.
 
 <img src="https://raw.githubusercontent.com/jacobdbt2100/Marketing-Campaign-Effectiveness-Analysis/main/marketing campaign effectiveness report.jpg" width="600">
 
