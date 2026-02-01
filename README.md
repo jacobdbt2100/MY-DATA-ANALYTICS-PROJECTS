@@ -1,4 +1,4 @@
-## DATA ANALYTICS PROJECTS
+## Data Analytics Projects:
 ___
 
 # Project 1: [Supply Chain Service Level Tracking Analysis](https://github.com/jacobdbt2100/Supply-Chain-Service-Level-Tracking-Analysis/blob/main/README.md)
